@@ -1,7 +1,7 @@
 # Heading 1
 ## Heading 2
 
-[Link](/secondpage.html)
+[Link](/cse15l-lab-reports/secondpage.html)
 
 This is `inline code`
 
@@ -13,7 +13,7 @@ Second Line
 
 - List 1
 - List 2
--   List 3
+- List 3
 
 ---
 

@@ -6,4 +6,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[Index](/index.md)
+[Link](/index.md)

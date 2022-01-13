@@ -1,4 +1,19 @@
-# CSE15L Lab Reports
+# Heading 1
+## Heading 2
+
+[Link](/README.md)
+
+This is `inline code`
+
+```
+This is a block of code
+Second Line
+
+```
+
+- List 1
+- List 2
+-   List 3
 
 ---
 

@@ -1,7 +1,7 @@
 # Heading 1
 ## Heading 2
 
-[Link](/README.md)
+[Link](/secondpage.html)
 
 This is `inline code`
 

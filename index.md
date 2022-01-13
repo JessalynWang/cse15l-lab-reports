@@ -1,7 +1,7 @@
 # Heading 1
 ## Heading 2
 
-[Link](/cse15l-lab-reports/secondpage.html)
+[Link](/secondpage.md)
 
 This is `inline code`
 

@@ -62,3 +62,7 @@ Next, we will learn how to set up an SSH key. This will allow you to bypass usin
 ![Image](images/Lab1_sshkey.PNG)
 
 ## Part 6: Optimizing Remote Running
+
+Lastly, we want to demonstrate how multiple commands can be combined to optimize remote running. For example, try the following command: `cp Hello.java World.java; javac World.java; java Hello`. This will copy the `Hello.java` into a new file called `World.java`, compile `World.java`, and run the output which is `Hello`. This is because we can use semicolons to run multiple commands in one line. We can also pass command line arguments while ssh-ing using quotations, such as in the command `ssh <account_username>@ieng6.ucsd.edu "ls"`. This will ssh into the remote computer and run ls. With this, come up with a command that will log into the remote computer, compile, and run `Hello.java`. An example is in the image below.
+
+![Image](images/Lab1_opt.PNG)

@@ -36,6 +36,7 @@ Now, we will learn how to move commands with `scp`. Once you are done, your term
 
 1. On *your* client, make a file called `Hello.java` and copy the following code into it:
 ```
+
 class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World!");

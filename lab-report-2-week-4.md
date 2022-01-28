@@ -36,7 +36,7 @@ Below is the failure inducing input that prompted the change:
 
 And the link to the test file that caused it:
 
-[Test File 1](https://github.com/JessalynWang/markdown-parse/blob/main/test-mark2.md)
+[Test File 2](https://github.com/JessalynWang/markdown-parse/blob/main/test-mark2.md)
 
 The symptom of the bug was an `IndexOutOfBoundsException`.
 
@@ -54,7 +54,7 @@ Below is the failure inducing input that prompted the change:
 
 And the link to the test file that caused it:
 
-[Test File 1](https://github.com/JessalynWang/markdown-parse/blob/main/test-file6.md)
+[Test File 3](https://github.com/JessalynWang/markdown-parse/blob/main/test-file6.md)
 
 The symptom of the bug was a detected link where there shouldn't have been one.
 

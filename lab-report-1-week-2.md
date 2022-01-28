@@ -69,3 +69,5 @@ Lastly, we want to demonstrate how multiple commands can be combined to optimize
 We can also pass command line arguments while calling `ssh` using quotations, such as in the command `ssh <account_username>@ieng6.ucsd.edu "ls"`. This will `ssh` into the remote computer and run `ls`. With this, come up with a command that will log into the remote computer, compile, and run `Hello.java`. An example is in the image below.
 
 ![Image](images/Lab1_opt.PNG)
+
+In total, this the more optimized command took 63 keystrokes, which is much better than what would have happened before we began optimizing by adding our SSH key and combining lines, as we would have had to type in our password and there would have been a longer delay between the logging into the server and running the files.

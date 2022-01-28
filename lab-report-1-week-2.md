@@ -35,6 +35,7 @@ Now that you have access to the remote server, you can try running some commands
 Now, we will learn how to move commands with `scp`. Once you are done, your terminal should look something similar to the image above.
 
 1. On *your* client, make a file called `Hello.java` and copy the following code into it:
+
 ```
 
 class Hello {
@@ -47,6 +48,7 @@ class Hello {
 }
 
 ```
+
 2. Run the file using javac and java on your computer, and note what you see. Then, move the file with the command `scp Hello.java <account_username>@ieng6.ucsd.edu:~/`
 3. Next, log into the remote computer and run the file again. Your output should be different! Now, you know how to move files using the `scp` command
 

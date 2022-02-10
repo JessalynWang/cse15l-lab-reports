@@ -12,7 +12,7 @@ The first change we made was by reworking the way we looked for links. In the or
 
 Below is the failure inducing input that prompted the change:
 
-![Image](images/Lab2_bug1.png)
+![Image](images/Lab2_edit1.png)
 
 And the link to the test file that caused it:
 
@@ -50,7 +50,7 @@ The third change we made was by adding an edge case for looking for links. The f
 
 Below is the failure inducing input that prompted the change:
 
-![Image](images/Lab2_bug3.png)
+![Image](images/Lab2_edit2.png)
 
 And the link to the test file that caused it:
 

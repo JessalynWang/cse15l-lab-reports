@@ -54,7 +54,7 @@ Below is the failure inducing input that prompted the change:
 
 And the link to the test file that caused it:
 
-[Test File 3](https://github.com/JessalynWang/markdown-parse/blob/main/test-file6.md)
+[Test File 6](https://github.com/JessalynWang/markdown-parse/blob/main/test-file6.md)
 
 The symptom of the bug was a detected link where there shouldn't have been one.
 
